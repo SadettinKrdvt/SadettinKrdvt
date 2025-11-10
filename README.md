@@ -47,7 +47,7 @@
 
 ## 🛠 Languages and Tools 
 
-| Swift | Kotlin | React | C# | JavaScript | HTML | CSS | Firebase | Git |
+| Swift | Kotlin | React Native| C# | JavaScript | HTML | CSS | Firebase | Git |
 |:------:|:------:|:------:|:--:|:-----------:|:----:|:---:|:--------:|:---:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> | <img src="https://camo.githubusercontent.com/d062d59fe5df3044548f176c99f52d6866ac70eea1104374c59b75cbdd2e98e5/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> |
 
